@@ -1,0 +1,14 @@
+.button{
+  height: 40px;
+  min-width: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10px;
+  border: 1px solid;
+  border-radius: 20px;
+  text-transform: uppercase;
+  &.button-white{
+    color: #ffffff;
+  }
+}

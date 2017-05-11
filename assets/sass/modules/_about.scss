@@ -1,0 +1,22 @@
+.about{
+  background: #ffffff;
+  padding:60px 0;
+  text-align: center;
+  .wr{
+    display: flex;
+    justify-content: center;
+  }
+  .txt-box {
+    max-width: 820px;
+    .blue-title{
+      color: #0ebfdd;
+    }
+    p{
+      font-size: 20px;
+      line-height: 28px;
+      font-weight: 300;
+      color: #45494d;
+      margin: 20px 0 0 0;
+    }
+  }
+}

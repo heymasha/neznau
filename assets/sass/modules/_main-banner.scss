@@ -1,0 +1,29 @@
+.main-banner{
+  background: url("/assets/img/background.jpg");
+  text-align: center;
+  .wr{
+    display: flex;
+    height: calc(100vh - 80px);
+    padding: 0 0 70px 0;
+    justify-content: center;
+  }
+  .text-box{
+    flex-direction: column;
+    align-self: flex-end;
+    max-width: 820px;
+    .white-title{
+      color: #ffffff;
+      i {
+        font-size: 12px;
+        vertical-align: middle;
+      }
+    }
+    p{
+      margin: 20px 0 0 0;
+      color: #ffffff;
+      font-size: 20px;
+      line-height: 28px;
+      font-weight: 300;
+    }
+  }
+}
