@@ -1,4 +1,3 @@
-# galp start (c) Anton (mipoh edition)
 
 Installation
 
